@@ -13,6 +13,7 @@
     "gulp": "^3.9.1",
     "gulp-css-vip": "^1.0.2",
     "gulp-rename": "^1.2.2",
-    "gulp-watch": "^4.3.10"
+    "gulp-watch": "^4.3.10",
+    "plumber": "^0.4.8"
   }
 }

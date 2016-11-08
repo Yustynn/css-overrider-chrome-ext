@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+
+  "name": "[INSERT YOUR OWN NAME HERE]",
+  "description": "I made this at 3DC's possum CSS workshop. And I can feel free to change this text!",
+  "version": "1",
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.google.com.sg/*"
+      ],
+      "css": [
+        "override-styles.css"
+      ]
+    }
+  ]
+}
