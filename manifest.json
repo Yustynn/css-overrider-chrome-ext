@@ -13,7 +13,7 @@
         "https://www.google.com.sg/*"
       ],
       "css": [
-        "override-styles.css"
+        "styles.css"
       ]
     }
   ]
